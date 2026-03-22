@@ -1,0 +1,4 @@
+*.out
+venv/
+moot/
+__pycache__/
